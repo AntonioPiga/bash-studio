@@ -1,0 +1,8 @@
+cat is a command used to concatenate files and print their contents to the standard output (usually the terminal).
+It's also used to create, display, or concatenate files.
+It's similar to ->print(), System.out.println() ...
+It's very versatile and can be used in combination with other commands and pipes to manipulate text and files.
+It's useful for quickly viewing the contents of a text file or concatenating multiple files together.
+To display the content of a file with cat, you can use the command:
+
+'cat {fileName}'
