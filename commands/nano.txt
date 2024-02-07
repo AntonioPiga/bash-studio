@@ -1,0 +1,7 @@
+Nano is a simple command-line text editor, designed to be easy to use for less experienced users.
+It's used to open and edit text files directly from the shell.
+Provides an intuitive and basic user interface, similar to other text editors with a graphical interface.
+It's great for quick edits and small text files.
+To open a file with Nano, you can use the command:
+
+'nano {filename}'
